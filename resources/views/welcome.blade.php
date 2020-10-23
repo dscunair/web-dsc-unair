@@ -3,7 +3,7 @@
 @section('content')
 <div>
     <div class="jumbotron jumbotron-fluid">
-        <div class="container">
+        <div class="container text-center">
             <h1 class="display-4">DSC UNAIR</h1>
             <p class="lead">Developer Student Club Airlangga University</p>
         </div>
@@ -26,7 +26,40 @@
             <h2 class="font-weight-bold mb-3">Upcoming Event</h2>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="card" style="width: 18rem;">
+                    <div class="card h-100" style="width: 18rem;">
+                        <img class="card-img-top img-rounded"
+                            src="https://instagram.fsub9-1.fna.fbcdn.net/v/t51.2885-19/s320x320/120414626_486995042264844_4832466002459730772_n.jpg?_nc_ht=instagram.fsub9-1.fna.fbcdn.net&_nc_ohc=cxr3mARPw8AAX-IhCLG&oh=ab84754ec3e347faab2b5c47c5744bb6&oe=5FA21F6C"
+                            alt="Card image cap">
+                        <div class="card-body text-center mb-4">
+                            <h5 class="card-title font-weight-bold">Internal Power Up</h5>
+                            <h5 class="card-text font-weight-semibold">27 October 2020</h5>
+                            <p class="card-text mt-3">Introducing of Angular JS</p>
+                            <a href="#" class="btn btn-primary font-weight-semibold">More Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-5">
+            <h2 class="font-weight-bold mb-3">Past Event</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card h-100" style="width: 18rem;">
+                        <img class="card-img-top img-rounded"
+                            src="https://instagram.fsub9-1.fna.fbcdn.net/v/t51.2885-19/s320x320/120414626_486995042264844_4832466002459730772_n.jpg?_nc_ht=instagram.fsub9-1.fna.fbcdn.net&_nc_ohc=cxr3mARPw8AAX-IhCLG&oh=ab84754ec3e347faab2b5c47c5744bb6&oe=5FA21F6C"
+                            alt="Card image cap">
+                        <div class="card-body text-center mb-4">
+                            <h5 class="card-title font-weight-bold">Internal Power Up #1</h5>
+                            <h5 class="card-text font-weight-semibold">17 October 2020</h5>
+                            <p class="card-text mt-3">How To Deploy Your Portfolio Website</p>
+                            <a href="#" class="btn btn-primary font-weight-semibold">More Details</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100" style="width: 18rem;">
                         <img class="card-img-top img-rounded"
                             src="https://instagram.fsub9-1.fna.fbcdn.net/v/t51.2885-19/s320x320/120414626_486995042264844_4832466002459730772_n.jpg?_nc_ht=instagram.fsub9-1.fna.fbcdn.net&_nc_ohc=cxr3mARPw8AAX-IhCLG&oh=ab84754ec3e347faab2b5c47c5744bb6&oe=5FA21F6C"
                             alt="Card image cap">
